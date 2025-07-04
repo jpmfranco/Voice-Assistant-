@@ -22,4 +22,14 @@ I did a english version and a spanish version of the voice assistant
 
 ![image](https://github.com/user-attachments/assets/5a61dc19-c9a0-4e05-ba42-6fefa09a7de0)
 
+### Joke
+![image](https://github.com/user-attachments/assets/be72f159-ed2c-4895-8004-6acfd01c523a)
+
+### Searching in google
+![image](https://github.com/user-attachments/assets/f4f1f3f3-7a97-4b95-ad07-1cfc8c7c7bd3)
+![image](https://github.com/user-attachments/assets/a1df0051-d680-4fc9-9fe4-6a2d63e461fc)
+### Open apps
+![image](https://github.com/user-attachments/assets/73ffc65d-340f-4b8e-b5d6-2eb3d591b435)
+![image](https://github.com/user-attachments/assets/e30a59a1-ce92-4888-ad68-8f16b187ba54)
+
 
