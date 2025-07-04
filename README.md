@@ -1,6 +1,7 @@
 # 🗣️ Voice Assistant in Python
 
 A lightweight, voice-controlled assistant built with Python that understands your spoken commands and performs basic tasks like opening applications, searching the web, and speaking responses.
+I did a english version and a spanish version of the voice assistant
 
 ## 🚀 Features
 
